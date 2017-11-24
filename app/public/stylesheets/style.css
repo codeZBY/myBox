@@ -6,4 +6,5 @@ body {
 a {
   color: #00B7FF;
   font-size: 20px;
+  overflow: hidden;
 }
